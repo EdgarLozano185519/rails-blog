@@ -1,24 +1,5 @@
-# README
+## Welcome to My Blog on Rails
+### What Is This?
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is just a blog written in Ruby on Rails. I will work on it from time to time.
+If you really want to, you can clone the code. But this is more for my purposes. You find anything all that useful here.
